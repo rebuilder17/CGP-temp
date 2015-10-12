@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGPUnity.CSharp", "CGPUnity.CSharp.csproj", "{9C49C23E-2D77-2BE7-5332-5306795A83E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGPUnity.CSharp.Editor", "CGPUnity.CSharp.Editor.csproj", "{34499E90-F20C-FF26-E52F-1EC695E42AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C49C23E-2D77-2BE7-5332-5306795A83E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C49C23E-2D77-2BE7-5332-5306795A83E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C49C23E-2D77-2BE7-5332-5306795A83E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C49C23E-2D77-2BE7-5332-5306795A83E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34499E90-F20C-FF26-E52F-1EC695E42AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34499E90-F20C-FF26-E52F-1EC695E42AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34499E90-F20C-FF26-E52F-1EC695E42AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34499E90-F20C-FF26-E52F-1EC695E42AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
